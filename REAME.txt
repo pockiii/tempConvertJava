@@ -1,0 +1,1 @@
+tempConvert.java is compatible with Kelvin, Celsius and Fahrenheit.
